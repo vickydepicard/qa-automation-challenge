@@ -43,7 +43,7 @@ More test cases are planned and will be incrementally added (TC02 to TC30).
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/qa-automation-challenge.git
+git clone https://github.com/vickydepicard/qa-automation-challenge
 cd qa-automation-challenge
 
 # Install dependencies
